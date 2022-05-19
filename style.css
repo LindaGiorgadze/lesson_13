@@ -1,0 +1,31 @@
+.relative {
+    position: relative;
+    width: fit-content;
+}
+
+.absolute {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    max-width: 50%;
+}
+
+.bgImage {
+    background-image: url(./images/istockphoto-1297349747-170667a.jpeg);
+    background-repeat: no-repeat;
+    width: fit-content;
+    background-size: cover;
+    background-position: center;
+}
+
+.text {
+    width: 500px;
+    margin-left: 255px;
+    padding-bottom: 150px;
+    font-size: 20px;
+    font-weight: bold;
+    background: linear-gradient(to right, #dbffc0, #e400b7);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
