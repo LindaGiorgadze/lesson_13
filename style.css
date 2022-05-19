@@ -29,3 +29,8 @@
     -webkit-background-clip: text;
     color: transparent;
 }
+
+.BSdiv {
+    height: 300px;
+    background-color: bisque;
+}
